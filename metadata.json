@@ -1,0 +1,7 @@
+{
+  "name": "Lumina POS",
+  "description": "A premium, AI-powered Point-of-Sale system with predictive restocking, facial recognition, and real-time smart analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
